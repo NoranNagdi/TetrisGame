@@ -55,3 +55,8 @@ The project follows the **MVVM pattern**:
 - **ViewModel** → Data binding, commands, and game state management  
 
 ---
+
+## Demonstration
+
+<img width="1226" height="856" alt="image" src="https://github.com/user-attachments/assets/3187d92a-31b8-4305-aad8-3d93572a7455" />
+
